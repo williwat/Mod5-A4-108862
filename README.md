@@ -4,7 +4,8 @@
 
 ##  **Introduction to Pandas DataFrames – Replicating an article in Markdown**
 
-|---                |---                                                         |
-| + Pandas.ipynb    | + Demonstration of my abilty to replicate an article using markdown |
-| + Pandas.html     | + The Jupyter notebook converted into an html webpage |
-| + Pandas.webp     | + The image for the notebook in the same file so that it displays correctly |
+| Files included               | Purpose of file                                                        |
+| :---               | :---                                                         |
+| 1. Pandas.ipynb     |  Demonstrates my abilty to use Jupyter Notebook to  replicate an article using markdown |
+| 2.  Pandas.html      |  The Jupyter notebook converted into an html webpage |
+| 3.  Pandas.webp      |  The image for the notebook in the same file so that it displays correctly |
